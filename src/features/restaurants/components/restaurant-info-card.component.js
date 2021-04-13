@@ -10,7 +10,6 @@ const Title = styled.Text`
   padding: 16px;
 `;
 
-
 export const RestaurantInfoCard = ({ restaurant = {} }) => {
   const {
     name = "Some Restaurant",
